@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\opencv-3.1.0\build\install\include\opencv2\core\mat.hpp(1965): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+d:\opencv-3.1.0\build\install\include\opencv2\core\persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+d:\opencv-3.1.0\build\install\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+d:\opencv-3.1.0\build\install\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  ZNC.vcxproj -> D:\Visual Studio 2015\Projects\ZNC\x64\Debug\ZNC.exe
+  ZNC.vcxproj -> D:\Visual Studio 2015\Projects\ZNC\x64\Debug\ZNC.pdb (Full PDB)
